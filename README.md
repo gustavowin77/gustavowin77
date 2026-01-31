@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
+
 <h2 align="left">Olá mundo!</h2>
 
 ###
@@ -10,7 +16,7 @@
 
 ###
 
-<h1 align="center">Minhas redes sociais:</h1>
+<h1 align="left">Minhas redes sociais:</h1>
 
 ###
 
@@ -29,17 +35,17 @@
 
 ###
 
-<h1 align="center">Linguagens que eu uso:</h1>
+<h1 align="left">Linguagens que eu uso:</h1>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="150" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="110" alt="java logo"  />
 </div>
 
 ###
 
-<h1 align="center">Sobre mim:</h1>
+<h1 align="left">Sobre mim:</h1>
 
 ###
 
@@ -49,12 +55,18 @@
 
 ###
 
-<h5 align="center">Olá! me chamo Gustavo, sou programador Java, e tenho 14 anos</h5>
+<h4 align="center">Olá! me chamo Gustavo, sou programador Java, e tenho 14 anos</h4>
 
 ###
 
 <div align="center">
   <img src="https://count.getloli.com/@:maurodesouz?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ###

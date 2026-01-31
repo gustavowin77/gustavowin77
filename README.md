@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+###  Olá! eu me chamo gu
 
 ###
 
@@ -8,10 +8,28 @@
 
 ###
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instragram](https://img.shields.io/badge/Instragram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/gustavowin77/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/slayerbr777)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gustavowin77)
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/gustavowin77/">
+    <img src="https://img.shields.io/badge/Instragram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://x.com/slayerbr777">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+
+  <a href="https://www.twitch.tv/gustavowin77">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+</p>
+
 
 
 ###

@@ -1,61 +1,60 @@
-###  Olá! eu me chamo gu
-
-###
-
-<div align="center">
-
-</div>
-
-###
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://www.instagram.com/gustavowin77/">
-    <img src="https://img.shields.io/badge/Instragram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
-  <a href="https://x.com/slayerbr777">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-
-  <a href="https://www.twitch.tv/gustavowin77">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-</p>
-
-
-### 👨‍💻 Linguagens na qual eu trabalho
-
-<p align="center">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-    alt="Java" 
-    width="80" 
-    height="80"
-  />
-</p>
-
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<h2 align="left">Olá mundo!</h2>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h1 align="center">Minhas redes sociais:</h1>
+
+###
+
+<div align="center">
+  <a href="https://x.com/slayerbr777" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/gustavowin77/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/VqBxBzky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="60" height="40" alt="twitch logo"  />
+</div>
+
+###
+
+<h1 align="center">Linguagens que eu uso:</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="150" alt="java logo"  />
+</div>
+
+###
+
+<h1 align="center">Sobre mim:</h1>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  />
+</div>
+
+###
+
+<h5 align="center">Olá! me chamo Gustavo, sou programador Java, e tenho 14 anos</h5>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:maurodesouz?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###

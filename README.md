@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.instagram.com/guguzinho7700/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" title="Instagram" width="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;;
 <a href="https://x.com/slayerbr777"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" title="X" width="40" /></a>
 
 <h3 align="left">Languages & Tools:</h3>

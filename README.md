@@ -1,8 +1,5 @@
 
-<h4 align="left">Connect with me:</h4>
 
-<a href="https://www.instagram.com/guguzinho7700/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" title="Instagram" width="40" /></a>
-<a href="https://x.com/slayerbr777"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" title="X" width="40" /></a>
 
 
 <h4 align="left">About me:</h4>
@@ -10,6 +7,11 @@
 <p align="left">
   Apenas um garoto em grande processo de evolução constante sobre o conhecimento técnico de programação,e sobre a evolucação da minha própria pessoa.
 </p>
+
+<h4 align="left">Connect with me:</h4>
+
+<a href="https://www.instagram.com/guguzinho7700/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" title="Instagram" width="40" /></a>
+<a href="https://x.com/slayerbr777"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" title="X" width="40" /></a>
 
 <h4 align="left">Languages & Tools:</h4>
 <p align="left">

@@ -2,18 +2,18 @@
 
 
 
-<h4 align="left">About me:</h4>
+<h3 align="left">About me:</h3>
 
 <p align="left">
   Apenas um garoto em grande processo de evolução constante sobre o conhecimento técnico de programação,e sobre a evolucação da minha própria pessoa.
 </p>
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 
 <a href="https://www.instagram.com/guguzinho7700/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" title="Instagram" width="40" /></a>
 <a href="https://x.com/slayerbr777"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" title="X" width="40" /></a>
 
-<h4 align="left">Languages & Tools:</h4>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" title="HTML5" width="38" />
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" title="CSS3" width="38" />
@@ -29,7 +29,7 @@
 
 
 
-<h4 align="left">GitHub Stats</h4>
+<h3 align="left">GitHub Stats</h3>
 
 <p>
   <img 

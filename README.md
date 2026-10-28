@@ -6,7 +6,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="5774155399214368565" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/cyberpunk-capri-cyberpunk-capri-edgerunners-2-edgerunners-2-gif-5774155399214368565">Cyberpunk Capri Cyberpunk GIF</a>from <a href="https://tenor.com/search/cyberpunk-gifs">Cyberpunk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="5774155399214368565" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/cyberpunk-capri-cyberpunk-capri-edgerunners-2-edgerunners-2-gif-5774155399214368565"></a>from <a href="https://tenor.com/search/cyberpunk-gifs"></a></div>
 
 ###
 

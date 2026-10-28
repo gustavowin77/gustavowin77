@@ -19,11 +19,11 @@
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" title="CSS3" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" title="Linux" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot" title="Spring Boot" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4" alt="C" title="C" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4" alt="C" title="C" width="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" title="GitHub" width="40" />
   <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" title="Git" width="40" />
   <img src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png" alt="Java" title="Java" width="53" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" title="Lua" width="39" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" title="Lua" width="40" />
 </p>
 
 

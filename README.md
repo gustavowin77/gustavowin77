@@ -31,14 +31,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png" 
-/>
 
 <img
     align="left"
@@ -51,30 +43,34 @@
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png" 
+/>
+
+
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-ak.f.st-hatena.com/images/fotolife/c/cruller/20220709/20220709235846.png" 
 />
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Lua" 
+    title="Lua"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" 
 />
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
+
 <br/>
 <br/>
 
